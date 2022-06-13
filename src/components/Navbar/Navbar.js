@@ -36,7 +36,7 @@ const Navbar = () => {
         <Nav>
             <NavbarContainer>
                 {/* Logo + icone */}
-                <NavLogo to="/" onClick={closeMobileMenu}> 
+                <NavLogo to="/o4game-Deploy/" onClick={closeMobileMenu}> 
                     <img src={Logo} width="110"/>
                 </NavLogo> 
                 <MobileIcon onClick={handleClick}>
@@ -44,7 +44,7 @@ const Navbar = () => {
                 </MobileIcon>
                 <NavMenu onClick={handleClick} click={click}>
                     <NavItem>
-                        <NavLinks to="/">
+                        <NavLinks to="/o4game-Deploy/">
                             Home
                         </NavLinks>
                     </NavItem>

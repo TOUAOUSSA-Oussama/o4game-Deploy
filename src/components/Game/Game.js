@@ -102,7 +102,7 @@ function Game() {
     const history = useNavigate();
     const handleSubmit1 = (event) => {
         event.preventDefault();
-        history('/');
+        history('/o4game-Deploy/');
     }
 
     return (

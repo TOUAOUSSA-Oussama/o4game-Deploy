@@ -18,7 +18,7 @@ function App() {
         <Navbar />
 
         <Routes>
-            <Route path='/' exact  element={<Home/>} />
+            <Route path='/o4game-Deploy/' exact  element={<Home/>} />
             <Route path='/Historic' exact  element={<Historic/>} />
             <Route path='/About' exact  element={<About/>} />
             <Route path='/Setting' exact  element={<Setting/>} />
