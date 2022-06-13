@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/o4game-Deploy/static/css/main.a721490d.css",
-    "main.js": "/o4game-Deploy/static/js/main.adc3e312.js",
+    "main.js": "/o4game-Deploy/static/js/main.237969d3.js",
     "static/media/winner.gif": "/o4game-Deploy/static/media/winner.9daf4b3cc8fafaa42d00.gif",
     "static/media/letsgo-2.gif": "/o4game-Deploy/static/media/letsgo-2.2eeddd2442618d9e406f.gif",
     "static/media/logo-10.png": "/o4game-Deploy/static/media/logo-10.92c6ce762010aa7497b0.png",
@@ -9,10 +9,10 @@
     "static/media/about.svg": "/o4game-Deploy/static/media/about.523c02b5cbac63e85f8b3426520c169d.svg",
     "index.html": "/o4game-Deploy/index.html",
     "main.a721490d.css.map": "/o4game-Deploy/static/css/main.a721490d.css.map",
-    "main.adc3e312.js.map": "/o4game-Deploy/static/js/main.adc3e312.js.map"
+    "main.237969d3.js.map": "/o4game-Deploy/static/js/main.237969d3.js.map"
   },
   "entrypoints": [
     "static/css/main.a721490d.css",
-    "static/js/main.adc3e312.js"
+    "static/js/main.237969d3.js"
   ]
 }
